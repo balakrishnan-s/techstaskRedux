@@ -1,0 +1,4 @@
+#Mon Aug 20 14:10:28 MYT 2018
+base.0=/home/balaks/Documents/development/Reactjs/8/stack/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
